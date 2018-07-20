@@ -50,3 +50,13 @@ function playGame() {
 	 	}
 	 }
 };
+
+
+// I writed indo-code
+
+}
+ boom boom
+ }
+	alert('I am indo-code');
+ {
+{
